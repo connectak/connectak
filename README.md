@@ -17,7 +17,7 @@
 - 🔭 Currently building real-world AWS & DevOps projects
 - 🌱 Learning **Terraform, Kubernetes, Jenkins & Advanced AWS**
 - 💡 Interested in Cloud Infrastructure, Automation & CI/CD
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **connectakash7@gmail.com**
 - 💼 Open to **Cloud Engineer** and **DevOps Engineer** opportunities
 
 ---
