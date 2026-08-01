@@ -124,9 +124,10 @@
 
 ## 📜 Certifications
 
-🏆 AWS Certified Cloud Practitioner
-
+🏆 AWS machine learning and artifical intelligence
+🏆(AWS Cloud Practitioner (Learning Program)
 🏆 Oracle Cloud Infrastructure Foundations Associate
+
 
 ---
 
